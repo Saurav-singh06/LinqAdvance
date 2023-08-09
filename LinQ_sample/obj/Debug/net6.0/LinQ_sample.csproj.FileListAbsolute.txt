@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\bin\Debug\net6.0\LinQ_sample.exe
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\bin\Debug\net6.0\LinQ_sample.deps.json
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\bin\Debug\net6.0\LinQ_sample.runtimeconfig.json
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\bin\Debug\net6.0\LinQ_sample.dll
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\bin\Debug\net6.0\LinQ_sample.pdb
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\obj\Debug\net6.0\LinQ_sample.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\obj\Debug\net6.0\LinQ_sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\obj\Debug\net6.0\LinQ_sample.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\obj\Debug\net6.0\LinQ_sample.AssemblyInfo.cs
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\obj\Debug\net6.0\LinQ_sample.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\obj\Debug\net6.0\LinQ_sample.dll
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\obj\Debug\net6.0\refint\LinQ_sample.dll
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\obj\Debug\net6.0\LinQ_sample.pdb
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\obj\Debug\net6.0\LinQ_sample.genruntimeconfig.cache
+C:\Users\Hp\source\repos\LinQ_sample\LinQ_sample\obj\Debug\net6.0\ref\LinQ_sample.dll
