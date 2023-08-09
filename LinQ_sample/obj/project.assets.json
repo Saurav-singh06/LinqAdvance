@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "TCPData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TCPData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPData.dll": {}
+        }
+      },
+      "TCPExtension/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TCPExtension.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPExtension.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TCPData/1.0.0": {
+      "type": "project",
+      "path": "../TCPData/TCPData.csproj",
+      "msbuildProject": "../TCPData/TCPData.csproj"
+    },
+    "TCPExtension/1.0.0": {
+      "type": "project",
+      "path": "../TCPExtension/TCPExtension.csproj",
+      "msbuildProject": "../TCPExtension/TCPExtension.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "TCPData >= 1.0.0",
+      "TCPExtension >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Hp\\.nuget\\packages\\": {}
@@ -33,7 +68,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Hp\\source\\repos\\LinQ_sample\\TCPData\\TCPData.csproj": {
+              "projectPath": "C:\\Users\\Hp\\source\\repos\\LinQ_sample\\TCPData\\TCPData.csproj"
+            },
+            "C:\\Users\\Hp\\source\\repos\\LinQ_sample\\TCPExtension\\TCPExtension.csproj": {
+              "projectPath": "C:\\Users\\Hp\\source\\repos\\LinQ_sample\\TCPExtension\\TCPExtension.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
